@@ -1,8 +1,7 @@
 # data-tracking-consumption
 
-Java project in school.
-
-This application is about an interactive chart.
+## About:
+This application is about an interactive chart. It is a school's project.
 
 First, there is 4 packages. In the default package is the StartApp.java. When you
 run it. The app will be started. It will call the Draw.java in Chart Package to draw
@@ -24,5 +23,6 @@ review the previous scene.
 
 If there is anything that not clear you can look at the comments for more details.
 
+## Example:
 ![Example:](https://github.com/Aleadinglight/data-tracking-consumption/blob/master/example.JPG)
 
