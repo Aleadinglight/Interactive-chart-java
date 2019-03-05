@@ -1,4 +1,4 @@
-# Data Tracking Consumption
+# Interactive Chart On Energy Consumption
 
 School's Java project.
 
